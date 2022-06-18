@@ -1,6 +1,6 @@
 package arrays.week4.carryforward;
 
-public class Solution {
+public class MaxSumContiguousSubarray {
 
 	public static int maxSubArray(final int[] A) {
 
